@@ -2,6 +2,13 @@
 
 A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations through a clean and intuitive user interface. It was created to strengthen core JavaScript concepts such as DOM manipulation, event handling, and expression evaluation.
 
+🚀 Live Demo
+
+You can view the project here:
+
+Repository: Calculator-2025 Repository
+
+(https://wasifqadeer1.github.io/Calculator-2025/)
 ---
 
 ## ✨ Features
