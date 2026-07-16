@@ -8,7 +8,7 @@ You can view the project here:
 
 Repository: Calculator-2025 Repository
 
-(https://wasifqadeer1.github.io/Calculator-2025/)
+https://wasifqadeer1.github.io/Calculator-2025/
 ---
 
 ## ✨ Features
