@@ -6,9 +6,9 @@ A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 You can view the project here:
 
-Repository: Calculator-2025 Repository
+Repository: Calculator Repository
 
-https://wasifqadeer1.github.io/Calculator-2025/
+ https://wasifqadeer1.github.io/Calculator/
 ---
 
 ## ✨ Features
@@ -36,7 +36,7 @@ https://wasifqadeer1.github.io/Calculator-2025/
 ## 📂 Project Structure
 
 ```text
-Calculator-2025/
+Calculator/
 │── index.html
 │── style.css
 │── script.js
@@ -56,13 +56,13 @@ Calculator-2025/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/wasifqadeer12/Calculator-2025.git
+git clone https://github.com/wasifqadeer12/Calculator.git
 ```
 
 ### Navigate to the Project
 
 ```bash
-cd Calculator-2025
+cd Calculator
 ```
 
 ### Run the Project
@@ -110,8 +110,5 @@ Simply open **index.html** in your browser.
 
 ---
 
-## ⭐ Support
-
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub. It helps support my work and encourages me to build more projects.
 
 Happy Coding! 🚀
