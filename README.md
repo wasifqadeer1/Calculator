@@ -106,7 +106,7 @@ Simply open **index.html** in your browser.
 
 **Wasif Qadeer**
 
-* GitHub: [@wasifqadeer12](https://github.com/wasifqadeer12?utm_source=chatgpt.com)
+* GitHub: https://github.com/wasifqadeer1
 
 ---
 
