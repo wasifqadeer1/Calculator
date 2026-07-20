@@ -1,4 +1,4 @@
-# 🧮 Calculator 2025
+# 🧮 Calculator
 
 A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations through a clean and intuitive user interface. It was created to strengthen core JavaScript concepts such as DOM manipulation, event handling, and expression evaluation.
 
